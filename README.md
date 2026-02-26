@@ -1,7 +1,7 @@
 # ED_Lista02.02
 ## Divisão: Subtração Recursiva
 
-Este desafio consiste em criar uma aplicação, em Java, que receba dois números naturais e apresente o quociente entre eles.
+Este desafio consiste em criar uma aplicação, em Java, que receba dois números naturais e apresente o resto da divisão entre eles.
 
 ```
 Requisitos do projeto:
